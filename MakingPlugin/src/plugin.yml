@@ -1,0 +1,12 @@
+name: LuBag
+version: 1.0
+author: Dianlu
+main: ykdlb.main.work.BagPlugin
+api-version: 1.16
+commands:
+  Bag:
+    description: Open the Bag
+    usage: /<command>
+  get:
+    description: getItems
+    usage: /<command>
